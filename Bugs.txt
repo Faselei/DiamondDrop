@@ -1,0 +1,9 @@
+1. Display is unstable. Fixed
+2. missile diamond shape is wrong. extra bit at the end of the loop. index out of bounds? fixed
+3. missile grfx are not in sync. fixed
+4. Score is not shown in decimal mode, hex numbers are used. Fixed (inc instructions are not 
+effected by decimal mode, need to do the clear cary and add #1).
+5. UseBomb Routine does not respond. fixed
+6. UseBomb Routine triggers every time, requirements don't work. fixed
+7. UseBomb Routine will not produce sound, broken sound trigger? fixed
+8. rng is not working. accidently left out RNG start routine

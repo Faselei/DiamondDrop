@@ -1,0 +1,56 @@
+DiamondDrop
+
+Game Program Instructions
+
+Use your joystick controller with this Atari(C) Game Program(tm). Be sure the Controller is firmly plugged into the LEFT CONTROLLER jack at the rear of your ATARI Video Computer System(tm).
+
+Firmly Plug the DiamondDrop Game Program Cartridge into the Atari VCS as described in the Manual. Make Sure that the Atari VCS is turned OFF before this action.
+
+Game Objective:
+ Guide the 2 diamonds through the falling barrier without any collision between them for as long as possible.
+
+CONTROLLER Actions
+
+Left controller:
+ Up: NO EFFECT
+ Right: Move Diamond's clockwise
+ Left: Move Diamond's counterclockwise
+ Down: Move the barrier down at a fast speed
+ button: use a BOMB
+right controller:
+ not used
+
+Using a BOMB:
+ At the start of any game, you are equiped with 6 bombs shown on the left and right side of the score. When activated, the barrior will be destroyed
+ leaving a harmless path for the diamond shape to pass through.
+
+Console Switches:
+ BW/Color: if your TV is a black/white model then before gameplay switch the BW/Color to B/W for your TV
+ Left Difficulty: for small diamonds, set the difficulty switch to B/novice. For a more difficult game, set the difficulty switch to A/Expert.
+ Right Difficulty: Not Used
+ Game Select: See Game Select variation
+ Game Reset: Start a Game with the current variation, default variation 1
+
+Game Select:
+ Diamond Drop has 8 variations:
+HOW TO READ THIS MATRIX
+
+Arena Type:
+ T = Table
+ R = RNG
+
+Diamond Movement:
+ C = Cource
+ S = Smooth
+
+Barrier Speed:
+ S = Slow
+ F = Fast
+---------------------------------------------------------------------------------
+Game Number	|	1	2	3	4	5	6	7	8
+---------------------------------------------------------------------------------
+Diamond Movement|	C	S	C	S	C	S	C	S
+Barrier Speed	|	S	S	F	F	S	S	F	F
+Arena Type	|	T	T	T	T	R	R	R	R
+---------------------------------------------------------------------------------
+

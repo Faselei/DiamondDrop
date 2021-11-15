@@ -1,0 +1,11 @@
+Original game by:
+	Kumobius
+
+With music by:
+	Tim Shiel
+
+Atari 2600, Batari Basic port:
+	Steve Engelhardt
+
+Atari 2600, assembly port:
+	Julian Zelazny
